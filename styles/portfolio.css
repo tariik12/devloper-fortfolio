@@ -16,7 +16,17 @@
     height: 64px;
     background: #FD6E0A;
     border-radius: 5px;
-    
+}
+.btn-contact{
+    font-weight: 700;
+font-size: 20px;
+color: #FD6E0A;
+border: 1px solid 
+#FD6E0A;
+padding: 18px 5px;
+border-radius: 5px;
+
+
 
 
 }
@@ -55,6 +65,7 @@ nav li {
 display: flex;
 align-items: center;
 margin: 0 200px;
+
 }
 .banner-title{
     font-weight: 700;
@@ -114,7 +125,6 @@ color: #474747;
 
 /* What i do styles */
 .what-i-do{
-    margin-top: 130px;
     margin-top: 130px;
     
     
