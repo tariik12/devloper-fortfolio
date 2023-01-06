@@ -23,7 +23,7 @@ font-size: 20px;
 color: #FD6E0A;
 border: 1px solid 
 #FD6E0A;
-padding: 18px 5px;
+padding: 18px 15px;
 border-radius: 5px;
 
 
@@ -63,8 +63,9 @@ nav li {
 /* banner styles */
 .banner{
 display: flex;
+gap: 250px;
 align-items: center;
-margin: 0 200px;
+margin: 0 250px;
 
 }
 .banner-title{
